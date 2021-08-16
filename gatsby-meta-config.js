@@ -6,10 +6,10 @@ module.exports = {
   siteUrl: `https://inee7.github.io/`, // Your blog site url
   social: {
     github: `inee7.github.com`, // Your GitHub account
-    medium: ``, // Your Medium account
-    facebook: ``, // Your Facebook account
-    linkedin: ``, // Your LinkedIn account
-    instagram: ``, // Your Instagram account
+    medium: `inee7.github.com`, // Your Medium account
+    facebook: `inee7.github.com`, // Your Facebook account
+    linkedin: `inee7.github.com`, // Your LinkedIn account
+    instagram: `inee7.github.com`, // Your Instagram account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
