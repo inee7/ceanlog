@@ -75,7 +75,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inee7//inee7.github.io"
+    "url": "git+https://github.com/inee7/inee7.github.io"
   },
   "scripts": {
     "post": "gatsby-post-gen",
