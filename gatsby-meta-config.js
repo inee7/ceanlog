@@ -1,15 +1,11 @@
 module.exports = {
-  title: `Bee starter`,
+  title: `어쩌다 코딩`,
   description: `Blog posted about ...`,
-  author: `ocean`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
+  author: `inee7`,
+  introduction: `기록보다 기억을.. 잘  해야 될텐데 말이죠... 살려고 기록합니다...ㅎ`,
   siteUrl: `https://inee7.github.io/`, // Your blog site url
   social: {
-    github: `inee7.github.com`, // Your GitHub account
-    medium: `inee7.github.com`, // Your Medium account
-    facebook: `inee7.github.com`, // Your Facebook account
-    linkedin: `inee7.github.com`, // Your LinkedIn account
-    instagram: `inee7.github.com`, // Your Instagram account
+    github: `inee7`, // Your GitHub account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
@@ -21,7 +17,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: 'inee7',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
